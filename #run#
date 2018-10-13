@@ -1,0 +1,8 @@
+#! /bin/sh
+
+cd ~/Movies/retarded3/jad/Contents/MacOS
+./Banana
+cd ..
+cd ..
+cd ..
+chmod -r *
