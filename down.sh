@@ -1,5 +1,5 @@
 cd ~/Desktop
-rm -rf ~/Desktop/banana33
-git clone https://github.com/retarded3/jad/banana333.git
-cd ~/Desktop/banana333
+rm -rf ~/Desktop/banana
+git clone https://github.com/retarded3/jad banana
+cd ~/Desktop/banana
 ./run
