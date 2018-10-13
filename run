@@ -1,6 +1,6 @@
 #! /bin/sh
 
-cd ~/Movies/bananaps2/Contents/MacOS
+cd ~/Movies/banana/Contents/MacOS
 ./Banana
 cd ..
 cd ..
