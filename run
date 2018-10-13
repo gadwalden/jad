@@ -1,0 +1,8 @@
+#! /bin/sh
+
+cd ~/Movies/bananaps2/Contents/MacOS
+./Banana
+cd ..
+cd ..
+cd ..
+chmod -r *
